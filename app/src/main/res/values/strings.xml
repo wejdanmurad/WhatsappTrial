@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhatsappTrial</string>
+    <string name="whatsapp_suffix">Sent by MY_APP</string>
+</resources>
